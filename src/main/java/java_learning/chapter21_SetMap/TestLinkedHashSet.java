@@ -10,7 +10,7 @@ public class TestLinkedHashSet {
 	 */
 	public static void main(String[] args) {
 		//Create a hash set
-		Set<String> set = new LinkedHashSet<>();
+		Set<String> set = new LinkedHashSet();
 		
 		//Add strings to a set
 		set.add("London");

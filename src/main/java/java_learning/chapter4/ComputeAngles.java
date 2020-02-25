@@ -1,4 +1,4 @@
-package java_practice.chapter4;
+package java_learning.chapter4;
 
 import java.util.Scanner;
 

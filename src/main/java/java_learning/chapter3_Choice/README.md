@@ -1,0 +1,9 @@
+3.1 AdditionQuiz
+3.2 SimpleIfDemo
+3.3 SubtractionQuiz
+3.4 ComputerAndInterpretMBI
+3.5 ComputeTax
+3.6 TestBooleanOperators
+3.7 LeapYear
+3.8 Lottery
+3.9 ChineseZodiac
