@@ -1,3 +1,7 @@
 5.1 RepeatAdditionQuiz
 5.2 GuessNumberOneTime
-5.3 GuessNumberOneTime
+5.3 GuessNumber
+5.4 SubtractionQuiz
+5.5 SentinelValue
+5.6 TestDoWhile
+5.7 MultiplicationTable
