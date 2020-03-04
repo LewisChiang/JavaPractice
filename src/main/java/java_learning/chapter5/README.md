@@ -5,3 +5,5 @@
 5.5 SentinelValue
 5.6 TestDoWhile
 5.7 MultiplicationTable
+5.8 TestSum
+5.9 GreatestCommonDivisor
