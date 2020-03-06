@@ -7,3 +7,9 @@
 5.7 MultiplicationTable
 5.8 TestSum
 5.9 GreatestCommonDivisor
+5.10 FutureTuition
+5.11 Dec2Hex
+5.12 TestBreak
+5.13 TestContinue
+5.14 Palindrome
+5.15 PrimeNumber
