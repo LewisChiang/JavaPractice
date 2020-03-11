@@ -7,3 +7,6 @@
 6.7 PrimeNumberMethod
 6.8 Hex2Dec
 6.9 TestMethodOverloading
+6.10 RandomCharacter
+6.11 TestRandomCharacter
+6.12 PrintCalendar
